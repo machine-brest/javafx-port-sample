@@ -1,0 +1,9 @@
+#region {
+	-fx-background-color: lightblue;
+	-fx-background-radius: 6;
+	-fx-background-insets: 10;
+}
+
+#helloButton {
+	-fx-font-size: 18px;
+}
