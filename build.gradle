@@ -4,7 +4,7 @@ buildscript {
     }
 
     dependencies {
-        classpath 'org.javafxports:jfxmobile-plugin:1.0.0-b10'
+        classpath 'org.javafxports:jfxmobile-plugin:1.0.1'
     }
 }
 
